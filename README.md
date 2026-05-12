@@ -1,0 +1,1 @@
+A resource pack remapping all music back to the 1.12.2 music
